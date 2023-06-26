@@ -1,4 +1,4 @@
-3D Force-Directed Graph
+3D BTC-WXG balance map
 =======================
 
 [![NPM package][npm-img]][npm-url]
